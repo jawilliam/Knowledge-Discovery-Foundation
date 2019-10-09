@@ -9,10 +9,10 @@
 <> a foaf:Document ;
    dc:date "2019-10-07"^^xsd:date ;
    dc:title "Jawilliam's FOAF Profile"@en ;
-   foaf:primaryTopic <#ah> ;
-   dc:creator <#ah> .
+   foaf:primaryTopic <#ja> ;
+   dc:creator <#ja> .
 
-<#ah> a foaf:Person ;
+<#ja> a foaf:Person ;
    rdfs:label "Guillermo de la Torre" ;
    rdfs:comment "Estudiante de Doctorado del DCC"@es ;
    foaf:name "Guillermo de la Torre" ;
@@ -20,7 +20,8 @@
    foaf:familyName "de la Torre" ;
    foaf:age 37 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <https://avatars1.githubusercontent.com/u/6865754?s=400&u=8811395bce2f0eb0ac04d4609ee7a5e1cddc1881&v=4> ;
-   foaf:homepage <https://github.com/jawilliam?tab=repositories> ;
+   foaf:homepage <https://www.linkedin.com/in/jawilliamtc/> ;
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> ;
+   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah>
    foaf:interest <http://www.wikidata.org/entity/Q19829492> , <http://www.wikidata.org/entity/Q1168073> , <http://www.wikidata.org/entity/Q152105> ;
    foaf:myersBriggs "INTP" .
