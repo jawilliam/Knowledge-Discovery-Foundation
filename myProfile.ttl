@@ -22,6 +22,7 @@
    foaf:img <https://avatars1.githubusercontent.com/u/6865754?s=400&u=8811395bce2f0eb0ac04d4609ee7a5e1cddc1881&v=4> ;
    foaf:homepage <https://www.linkedin.com/in/jawilliamtc/> ;
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> ;
-   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah>
+   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
+   foaf:knows <https://raw.githubusercontent.com/mabelin/Lab-9-Linked-Data/master/CinthiaLab09.ttl#cs> ;
    foaf:interest <http://www.wikidata.org/entity/Q19829492> , <http://www.wikidata.org/entity/Q1168073> , <http://www.wikidata.org/entity/Q152105> ;
    foaf:myersBriggs "INTP" .
