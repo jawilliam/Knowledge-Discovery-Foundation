@@ -24,5 +24,5 @@
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
    foaf:knows <https://raw.githubusercontent.com/mabelin/Lab-9-Linked-Data/master/CinthiaLab09.ttl#cs> ;
-   foaf:interest <http://www.wikidata.org/entity/Q47703> , <http://www.wikidata.org/entity/Q184768> , <http://www.wikidata.org/entity/Q202326> , <http://www.wikidata.org/entity/Q258009> , <http://www.wikidata.org/entity/Q258009> ;
+   foaf:interest <http://www.wikidata.org/entity/Q47703> , <http://www.wikidata.org/entity/Q184768> , <http://www.wikidata.org/entity/Q202326> , <http://www.wikidata.org/entity/Q258009> , <http://www.wikidata.org/entity/Q200572> ;
    foaf:myersBriggs "INTP" .
