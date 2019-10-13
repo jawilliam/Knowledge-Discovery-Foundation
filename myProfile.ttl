@@ -1,4 +1,4 @@
-@base <https://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl> .
+@base <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl> .
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -19,10 +19,12 @@
    foaf:givenName "Guillermo" ;
    foaf:familyName "de la Torre" ;
    foaf:age 37 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
-   foaf:img <https://avatars1.githubusercontent.com/u/6865754?s=400&u=8811395bce2f0eb0ac04d4609ee7a5e1cddc1881&v=4> ;
-   foaf:homepage <https://www.linkedin.com/in/jawilliamtc/> ;
+   foaf:img <http://avatars1.githubusercontent.com/u/6865754?s=400&u=8811395bce2f0eb0ac04d4609ee7a5e1cddc1881&v=4> ;
+   foaf:homepage <http://www.linkedin.com/in/jawilliamtc/> ;
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
-   foaf:knows <https://raw.githubusercontent.com/mabelin/Lab-9-Linked-Data/master/CinthiaLab09.ttl#cs> ;
+   foaf:knows <http://raw.githubusercontent.com/mabelin/Lab-9-Linked-Data/master/foaf.ttl#cs> ;
    foaf:interest <http://www.wikidata.org/entity/Q47703> , <http://www.wikidata.org/entity/Q184768> , <http://www.wikidata.org/entity/Q202326> , <http://www.wikidata.org/entity/Q258009> , <http://www.wikidata.org/entity/Q200572> ;
+   foaf:nick "jawilliam" ;
+   foaf:publications <http://ieeexplore.ieee.org/document/8595233> ;
    foaf:myersBriggs "INTP" .
