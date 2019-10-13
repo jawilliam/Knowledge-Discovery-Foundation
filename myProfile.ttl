@@ -20,7 +20,7 @@
    foaf:familyName "de la Torre" ;
    foaf:age 37 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <http://avatars1.githubusercontent.com/u/6865754?s=400&u=8811395bce2f0eb0ac04d4609ee7a5e1cddc1881&v=4> ;
-   foaf:homepage <http://www.linkedin.com/in/jawilliamtc/> ;
+   foaf:homepage <https://www.linkedin.com/in/jawilliamtc/> ;
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
    foaf:knows <http://raw.githubusercontent.com/mabelin/Lab-9-Linked-Data/master/foaf.ttl#cs> ;
