@@ -24,6 +24,8 @@
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
    foaf:knows <http://raw.githubusercontent.com/mabelin/Lab-9-Linked-Data/master/foaf.ttl#cs> ;
+   foaf:knows <http://raw.githubusercontent.com/JoseIVP/lab9-watos/master/jose.ttl#jv> ;
+   foaf:knows <http://anakena.dcc.uchile.cl/~ptaiba/foaf.ttl#pt> ; 
    foaf:interest <http://www.wikidata.org/entity/Q47703> , <http://www.wikidata.org/entity/Q184768> , <http://www.wikidata.org/entity/Q202326> , <http://www.wikidata.org/entity/Q258009> , <http://www.wikidata.org/entity/Q200572> ;
    foaf:nick "jawilliam" ;
    foaf:publications <http://ieeexplore.ieee.org/document/8595233> ;
