@@ -30,6 +30,6 @@
    foaf:interest <http://www.wikidata.org/entity/Q47703> , <http://www.wikidata.org/entity/Q184768> , <http://www.wikidata.org/entity/Q202326> , <http://www.wikidata.org/entity/Q258009> , <http://www.wikidata.org/entity/Q200572> ;
    foaf:nick "jawilliam" ;
    foaf:publications <http://ieeexplore.ieee.org/document/8595233> ;
-   social:hasEnemy <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
-   social:hasSpiritAnimal <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
+   #social:hasEnemy <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
+   #social:hasSpiritAnimal <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
    foaf:myersBriggs "INTP" .
