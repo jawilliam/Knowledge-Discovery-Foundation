@@ -21,11 +21,11 @@
    foaf:age 37 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <http://avatars1.githubusercontent.com/u/6865754?s=400&u=8811395bce2f0eb0ac04d4609ee7a5e1cddc1881&v=4> ;
    foaf:homepage <https://www.linkedin.com/in/jawilliamtc/> ;
-   foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> ;
    foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
    foaf:knows <http://raw.githubusercontent.com/mabelin/Lab-9-Linked-Data/master/foaf.ttl#cs> ;
    foaf:knows <http://raw.githubusercontent.com/JoseIVP/lab9-watos/master/jose.ttl#jv> ;
    foaf:knows <http://anakena.dcc.uchile.cl/~ptaiba/foaf.ttl#pt> ; 
+   foaf:knows <http://anakena.dcc.uchile.cl/~alalarco/foaf.ttl#al> ;
    foaf:interest <http://www.wikidata.org/entity/Q47703> , <http://www.wikidata.org/entity/Q184768> , <http://www.wikidata.org/entity/Q202326> , <http://www.wikidata.org/entity/Q258009> , <http://www.wikidata.org/entity/Q200572> ;
    foaf:nick "jawilliam" ;
    foaf:publications <http://ieeexplore.ieee.org/document/8595233> ;
