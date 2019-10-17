@@ -32,4 +32,4 @@
    foaf:publications <http://ieeexplore.ieee.org/document/8595233> ;
    #social:hasEnemy <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
    #social:hasSpiritAnimal <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
-   foaf:myersBriggs "INTP" .
+   foaf:myersBriggs "INTJ" .
