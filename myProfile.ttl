@@ -5,7 +5,7 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix dc: <http://purl.org/dc/terms/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
-@prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl#> .
+@prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl> .
 
 <> a foaf:Document ;
    dc:date "2019-10-07"^^xsd:date ;
@@ -30,6 +30,6 @@
    foaf:interest <http://www.wikidata.org/entity/Q47703> , <http://www.wikidata.org/entity/Q184768> , <http://www.wikidata.org/entity/Q202326> , <http://www.wikidata.org/entity/Q258009> , <http://www.wikidata.org/entity/Q200572> ;
    foaf:nick "jawilliam" ;
    foaf:publications <http://ieeexplore.ieee.org/document/8595233> ;
-   #social:hasEnemy <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
-   #social:hasSpiritAnimal <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
+   social:hasEnemy <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
+   social:hasSpiritAnimal <http://raw.githubusercontent.com/jawilliam/Knowledge-Discovery-Foundation/master/myProfile.ttl#ja> ;
    foaf:myersBriggs "INTJ" .
